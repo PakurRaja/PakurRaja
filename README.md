@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rajaram Pakur
+# 👋 Hi, I'm Raja Ram Pakur
 
 **Software Engineer | Tech Enthusiast | Visionary Leader**
 
