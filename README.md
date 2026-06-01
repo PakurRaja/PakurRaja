@@ -6,7 +6,7 @@ Welcome to my GitHub! I am passionate about building scalable, secure, and futur
 
 ## 🚀 About Me
 
-- **Current Role:** Software Engineer at Smart Solar Nepal Corporation
+- **Current Role:** Software Engineer at Smart Solar Nepal Corporation and Team Lead at Jodnu Technology Pvt. Ltd
 - **Education:** Khwopa Engineering College, Bhaktapur, Nepal
 - **Location:** Bhaktapur, Nepal
 
